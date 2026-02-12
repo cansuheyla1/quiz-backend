@@ -6,7 +6,16 @@ const path = require("path");
 const questionsRoutes = require("./routes/questions");
 
 const app = express();
-app.use(cors());
+app.use(cors({
+  origin: [
+    "http://localhost:8080",
+    "https://cansuheyla1.github.io"
+  ],
+  methods: ["GET", "POST", "OPTIONS"],
+  allowedHeaders: ["Content-Type"],
+}));
+app.options("*", cors());
+
 app.use(express.json());
 
 app.get("/", (req,res) => {
