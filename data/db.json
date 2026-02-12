@@ -1,0 +1,184 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Türkiye'nin başkenti neresidir?",
+      "options": ["İstanbul", "İzmir", "Ankara", "Bursa"],
+      "answerIndex": 2
+    },
+    {
+      "id": 2,
+      "question": "Dünyanın en büyük okyanusu hangisidir?",
+      "options": ["Atlas", "Hint", "Arktik", "Pasifik"],
+      "answerIndex": 3
+    },
+    {
+      "id": 3,
+      "question": "Mona Lisa tablosunu kim yapmıştır?",
+      "options": ["Van Gogh", "Leonardo da Vinci", "Picasso", "Michelangelo"],
+      "answerIndex": 1
+    },
+    {
+      "id": 4,
+      "question": "İnsan vücudundaki en büyük organ hangisidir?",
+      "options": ["Kalp", "Akciğer", "Karaciğer", "Deri"],
+      "answerIndex": 3
+    },
+    {
+      "id": 5,
+      "question": "Güneş sistemindeki en büyük gezegen hangisidir?",
+      "options": ["Mars", "Dünya", "Jüpiter", "Satürn"],
+      "answerIndex": 2
+    },
+    {
+      "id": 6,
+      "question": "İstiklal Marşı'nın yazarı kimdir?",
+      "options": ["Namık Kemal", "Yahya Kemal", "Mehmet Akif Ersoy", "Tevfik Fikret"],
+      "answerIndex": 2
+    },
+    {
+      "id": 7,
+      "question": "En çok konuşulan dil hangisidir?",
+      "options": ["İngilizce", "İspanyolca", "Mandarin Çincesi", "Arapça"],
+      "answerIndex": 2
+    },
+    {
+      "id": 8,
+      "question": "Su kaç derecede kaynar?",
+      "options": ["90", "100", "80", "110"],
+      "answerIndex": 1
+    },
+    {
+      "id": 9,
+      "question": "Piramitleriyle ünlü ülke hangisidir?",
+      "options": ["Meksika", "Peru", "Mısır", "Hindistan"],
+      "answerIndex": 2
+    },
+    {
+      "id": 10,
+      "question": "Dünyanın en uzun nehri hangisidir?",
+      "options": ["Amazon", "Nil", "Mississippi", "Yangtze"],
+      "answerIndex": 1
+    },
+    {
+      "id": 11,
+      "question": "Satrançta oyuna başlayan taş rengi hangisidir?",
+      "options": ["Siyah", "Beyaz"],
+      "answerIndex": 1
+    },
+    {
+      "id": 12,
+      "question": "Dünyanın en hızlı kara hayvanı hangisidir?",
+      "options": ["Aslan", "Çita", "Kaplan", "At"],
+      "answerIndex": 1
+    },
+    {
+      "id": 13,
+      "question": "Bir haftada kaç gün vardır?",
+      "options": ["5", "6", "7", "8"],
+      "answerIndex": 2
+    },
+    {
+      "id": 14,
+      "question": "Ay yüzeyine ilk ayak basan kişi kimdir?",
+      "options": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "Elon Musk"],
+      "answerIndex": 0
+    },
+    {
+      "id": 15,
+      "question": "En küçük asal sayı hangisidir?",
+      "options": ["0", "1", "2", "3"],
+      "answerIndex": 2
+    },
+    {
+      "id": 16,
+      "question": "HTML neyin kısaltmasıdır?",
+      "options": ["HyperText Markup Language", "HighText Machine Language", "Hyper Tool Multi Language", "Home Tool Markup Language"],
+      "answerIndex": 0
+    },
+    {
+      "id": 17,
+      "question": "Dünyanın en yüksek dağı hangisidir?",
+      "options": ["K2", "Everest", "Ağrı", "Fuji"],
+      "answerIndex": 1
+    },
+    {
+      "id": 18,
+      "question": "Türkiye hangi kıtada yer alır?",
+      "options": ["Avrupa", "Asya", "Her ikisi", "Afrika"],
+      "answerIndex": 2
+    },
+    {
+      "id": 19,
+      "question": "Bilgisayarda RAM ne işe yarar?",
+      "options": ["Depolama", "Geçici hafıza", "İşlemci", "Grafik kartı"],
+      "answerIndex": 1
+    },
+    {
+      "id": 20,
+      "question": "En büyük memeli hangisidir?",
+      "options": ["Fil", "Zürafa", "Mavi Balina", "Köpekbalığı"],
+      "answerIndex": 2
+    },
+    {
+      "id": 21,
+      "question": "Elektriğin birimi nedir?",
+      "options": ["Volt", "Amper", "Watt", "Hepsi"],
+      "answerIndex": 3
+    },
+    {
+      "id": 22,
+      "question": "JavaScript hangi tür bir dildir?",
+      "options": ["Derlenen", "Yorumlanan", "Assembly", "Binary"],
+      "answerIndex": 1
+    },
+    {
+      "id": 23,
+      "question": "CSS ne için kullanılır?",
+      "options": ["Veritabanı", "Stil verme", "Sunucu", "Test"],
+      "answerIndex": 1
+    },
+    {
+      "id": 24,
+      "question": "En büyük çöl hangisidir?",
+      "options": ["Gobi", "Sahra", "Arabistan", "Kalahari"],
+      "answerIndex": 1
+    },
+    {
+      "id": 25,
+      "question": "Bir yıl kaç aydır?",
+      "options": ["10", "11", "12", "13"],
+      "answerIndex": 2
+    },
+    {
+      "id": 26,
+      "question": "Vue.js nedir?",
+      "options": ["Framework", "Database", "OS", "Browser"],
+      "answerIndex": 0
+    },
+    {
+      "id": 27,
+      "question": "Node.js ne üzerinde çalışır?",
+      "options": ["Chrome V8 Engine", "Python", "Java VM", "Linux Kernel"],
+      "answerIndex": 0
+    },
+    {
+      "id": 28,
+      "question": "Dünya kendi ekseni etrafında kaç saatte döner?",
+      "options": ["12", "24", "48", "36"],
+      "answerIndex": 1
+    },
+    {
+      "id": 29,
+      "question": "En büyük gezegen uydusu hangisidir?",
+      "options": ["Europa", "Titan", "Ganymede", "Ay"],
+      "answerIndex": 2
+    },
+    {
+      "id": 30,
+      "question": "HTTP neyin kısaltmasıdır?",
+      "options": ["HyperText Transfer Protocol", "High Transfer Text Process", "Hyper Tool Transfer", "Host Text Transfer"],
+      "answerIndex": 0
+    }
+  ]
+}
