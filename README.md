@@ -1,0 +1,1 @@
+This is the backend part of a quiz application built with JavaScript using Node.js, while the frontend was developed separately with Vue.js. The system selects 10 random questions from a question pool stored in a JSON file. Users can complete the quiz, submit their answers, and view their final scores through the frontend interface connected to this backend.
